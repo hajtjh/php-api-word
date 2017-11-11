@@ -1,5 +1,5 @@
 ####v1.0 更新日志
-    1.注释规范
+    1.注释规范<br>
     /**
      * @method 注册用户
      * @url    email/send?token=xxx

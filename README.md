@@ -1,4 +1,5 @@
-####v1.0 更新日志<br>
+博客地址：https://www.php63.cc <br>
+####使用说明<br>
     1.注释规范<br>
     /**<br>
      * @method 注册用户<br>
